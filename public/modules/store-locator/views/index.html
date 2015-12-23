@@ -1,0 +1,34 @@
+<div>
+    <form>
+        <label for="address">User location </label>
+        <input id="address" autocomplete type="text" ng-model="searchBox.address" required>
+
+        |
+
+        <label for="radius">Radius </label>
+        <select id="radius" ng-model="searchBox.radius">
+            <option value="5">5 km</option>
+            <option value="25">25 km</option>
+            <option value="50">50 km</option>
+            <option value="100">100 km</option>
+            <option value="">All</option>
+        </select>
+
+        |
+
+        <label for="limit">Limit </label>
+        <select id="limit" ng-model="searchBox.limit">
+            <option value="5">5</option>
+            <option value="15">10</option>
+            <option value="50">50</option>
+            <option value="">All</option>
+        </select>
+
+        <button type="button" ng-click="searchStores()" >Search</button>
+    </form>
+
+    <br>
+
+    <div map map-ready="mapReady" style="width: 100%; height: 800px"></div>
+
+</div>

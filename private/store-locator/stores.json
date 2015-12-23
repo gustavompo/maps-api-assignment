@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Cm Auto Posto",
+    "address": "Rua Brigadeiro Haroldo Veloso, 501, Itaim Bibi - São Paulo - SP",
+    "lat": -23.588137,
+    "lng": -46.686981
+  },
+  {
+    "name": "Auto Posto Hungria",
+    "address": "Rua Hungria, 326, Jardim Europa - São Paulo - SP",
+    "lat": -23.583767,
+    "lng": -46.691307
+  },
+  {
+    "name": "Posto Queens",
+    "address": "Avenida Santo Amaro - Pista Central, 2250, Jardim Novo Mundo - São Paulo - SP",
+    "lat": -23.607094,
+    "lng": -46.676239
+  },
+  {
+    "name": "Posto Tanabi",
+    "address": "Rua Funchal, 411, Vila Olímpia - São Paulo - SP",
+    "lat": -23.594208,
+    "lng": -46.689751
+  },
+  {
+    "name": "Posto Ale",
+    "address": "Rua James Joule, 0, Cidade Monções - São Paulo - SP",
+    "lat": -23.611006,
+    "lng": -46.695686
+  },
+  {
+    "name": "Posto Esso",
+    "address": "Avenida Iraí, 297, Indianópolis - São Paulo - SP",
+    "lat": -23.60964,
+    "lng": -46.664318
+  },
+  {
+    "name": "Posto Fiandeiras",
+    "address": "Avenida Santo Amaro - Pista Central, 1510, Jardim Novo Mundo - São Paulo - SP",
+    "lat": -23.607094,
+    "lng": -46.676239
+  },
+  {
+    "name": "Auto Posto J K",
+    "address": "Avenida Pres.Juscelino Kubitscheck, 1514, VILA OLIMPIA, Itaim Bibi - São Paulo - SP",
+    "lat": -23.59092,
+    "lng": -46.68369
+  },
+  {
+    "name": "Posto Araruna",
+    "address": "Rua Lídia Simões Cabral, 43, Indianópolis - São Paulo - SP",
+    "lat": -23.609375,
+    "lng": -46.665321
+  },
+  {
+    "name": "Posto Jardineira",
+    "address": "Rua Bugio, 79, Vila Olímpia - São Paulo - SP",
+    "lat": -23.599489,
+    "lng": -46.685001
+  },
+  {
+    "name": "Posto Iramaya",
+    "address": "Rua Bandeira Paulista, 370, Itaim Bibi - São Paulo - SP",
+    "lat": -23.582706,
+    "lng": -46.676189
+  },
+  {
+    "name": "Posto Iramaya",
+    "address": "Rua Bandeira Paulista, 370, Itaim Bibi - São Paulo - SP",
+    "lat": -23.582706,
+    "lng": -46.676189
+  },
+  {
+    "name": "Posto Lavandisca",
+    "address": "Alameda Jauaperi, 571, Indianópolis - São Paulo - SP",
+    "lat": -23.602585,
+    "lng": -46.664993
+  },
+  {
+    "name": "Posto Brooklin",
+    "address": "Avenida Padre Antônio José dos Santos, 1575, Cidade Monções - São Paulo - SP",
+    "lat": -23.606049,
+    "lng": -46.691895
+  },
+  {
+    "name": "Posto Juventus",
+    "address": "Rua João Antônio de Oliveira, 108, Mooca - São Paulo - SP",
+    "lat": -23.554953,
+    "lng": -46.606102
+  },
+  {
+    "name": "Posto de Gasolina Br Carrefour",
+    "address": "Praça Alberto Lion, 100, Cambuci - São Paulo - SP",
+    "lat": -23.56189,
+    "lng": -46.611496
+  },
+  {
+    "name": "Posto Castilho",
+    "address": "Rua Do Oratório, 3286, Vila Prudente - São Paulo - SP",
+    "lat": -23.574644,
+    "lng": -46.579052
+  },
+  {
+    "name": "Posto Guaicara",
+    "address": "Estrada do Oratório, 3546, Alto da Moóca - São Paulo - SP",
+    "lat": -23.5759073441,
+    "lng": -46.5783697132
+  },
+  {
+    "name": "Posto Cabernet",
+    "address": "Rua Vsc. de Parnaíba, 2343, Belenzinho - São Paulo - SP",
+    "lat": -23.543764,
+    "lng": -46.603668
+  },
+  {
+    "name": "Posto Ibero",
+    "address": "Rua Ibitirama, 127, Vila Prudente - São Paulo - SP",
+    "lat": -23.582384,
+    "lng": -46.585266
+  },
+  {
+    "name": "Posto de Combustiveis",
+    "address": "Praça Do Centenário de Vila Prudente, 139, Vila Prudente - São Paulo - SP",
+    "lat": -23.581768,
+    "lng": -46.58342
+  },
+  {
+    "name": "Posto Point",
+    "address": "Rua Da Mooca, 3622, Alto da Mooca - São Paulo - SP",
+    "lat": -23.558672,
+    "lng": -46.589779
+  },
+  {
+    "name": "Visao Auto Posto",
+    "address": "Largo Ubirajara, 22, Belenzinho - São Paulo - SP",
+    "lat": -23.5457334,
+    "lng": -46.5920124
+  },
+  {
+    "name": "Auto Posto Paes de Barros",
+    "address": "Avenida Paes de Barros, 1064, Mooca - São Paulo - SP",
+    "lat": -23.564213,
+    "lng": -46.596546
+  },
+  {
+    "name": "Posto de Serviços Dominante",
+    "address": "Rua Vsc. de Inhomerim, 918, Mooca - São Paulo - SP",
+    "lat": -23.561514,
+    "lng": -46.595757
+  },
+  {
+    "name": "Posto de Servicos Parque da Mooca",
+    "address": "Rua Jumana, 149, Mooca - São Paulo - SP",
+    "lat": -23.565744,
+    "lng": -46.598274
+  },
+  {
+    "name": "Auto Posto Conexao Express",
+    "address": "Avenida Paes de Barros, 1999, Mooca - São Paulo - SP",
+    "lat": -23.568525,
+    "lng": -46.588779
+  },
+  {
+    "name": "Auto Posto Zum",
+    "address": "Rua Da Mooca, 3355, Mooca - São Paulo - SP",
+    "lat": -23.557583,
+    "lng": -46.592228
+  },
+  {
+    "name": "Auto Posto Bertioga",
+    "address": "Rua Da Mooca, 4271, Vila Bertioga - São Paulo - SP",
+    "lat": -23.561274,
+    "lng": -46.583931
+  }
+]
